@@ -16,7 +16,7 @@ class ChatClient
         BufferedReader bobj2 = new BufferedReader(new InputStreamReader(System.in));
 
         System.out.println("---------------------------------------------------");
-        System.out.println("-----------------Marvellous Server-----------------");
+        System.out.println("-----------------Kunal Server-----------------");
         System.out.println("---------------------------------------------------");
 
         String str1 = null, str2 = null;
@@ -29,4 +29,5 @@ class ChatClient
             System.out.println("Enter msg for server : ");
         }
     }
+
 }
